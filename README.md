@@ -6,15 +6,19 @@ Name: Nonprofits Who Amplify (N.W.A.)
 
 Members: Darius, Eldredge, Justin, Marvin, Troy
 
-Problem
-=========
+#Problem
+
 TBD.
 
 
-Technical Solution
-=========
+#Technical Solution
+
 Use Python & Django to build a dynamic web app to connect Nonprofits to skilled Talents who are willing to donate their time to a cause they believe in. There will be an algorithm that determines the likelihood of a good match based on shared interests and needs/skills.
 
 
-
-
+#Installation Instructions
+- git clone
+- virtualenv .
+- pip install -r requirements.txt
+- python manage.py runserver
+-- open browser, go to localhost:8000
