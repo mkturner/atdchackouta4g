@@ -3,12 +3,11 @@
 
 #Team Info
 Name: Nonprofits Who Amplify (N.W.A.)
+
 Members: Darius, Eldredge, Justin, Marvin, Troy
-Problem:
 
 Problem
 =========
-
 TBD.
 
 
